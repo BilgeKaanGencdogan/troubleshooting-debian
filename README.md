@@ -1,5 +1,6 @@
 # TROUBLESHOOTING OF APACHE WEB SERVER
 
+- [USERS AND PASSWORDS](#users-and-passwords)
 - [NETWORK ADAPTER CONFIGURATION OF WM](#network-adapter-configuration-of-wm)
 - [LOG IN TO VM THAT LOG-IN CREDENTIAL IS NOT GIVEN](#log-in-to-vm-that-log-in-credential-is-not-given)
 - [SWITCHING EMERGENCY MODE TO NORMAL MODE](#switching-emergency-mode-to-normal-mode)
@@ -7,6 +8,15 @@
 - [ADDING A USER FOR SSH CONNECTIONG](#adding-a-user-for-ssh-connection)
 - [DNS AND DNS RESOLVER CONFIGURATION](#dns-and-dns-resolver-configuration)
 - [APACHE SERVER TROUBLESHOOTING](#apache-server-troubleshooting)
+
+### USERS AND PASSWORDS
+```
+User: bilgekaan
+Password: 0123456789
+User : root
+Password: 123456
+
+```
 
 ### NETWORK ADAPTER CONFIGURATION OF WM
 
